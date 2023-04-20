@@ -1,0 +1,135 @@
+/*------Layout (No Edit)----------*/
+#layout #preloader,
+#layout .scrolling-menu {
+  display: none;
+}
+#layout .sora-contact-widget {
+  display: none;
+}
+body#layout #outer-wrapper {
+  padding: 0;
+  width: 800px;
+}
+body#layout .section h4 {
+  color: #333 !important;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+body#layout .tm-menu,
+body#layout #menu {
+  height: auto;
+  position: static;
+}
+body#layout #menu .widget {
+  display: block;
+  visibility: visible;
+}
+body#layout #header-wrapper {
+  height: auto;
+}
+body#layout #content-wrapper {
+  margin: 0 auto;
+  padding: 0;
+}
+body#layout #main-wrapper {
+  float: left;
+  width: 70%;
+  margin: 0;
+  padding: 0;
+}
+body#layout #sidebar-wrapper {
+  float: right;
+  width: 30%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  visibility: visible;
+  height: auto;
+  opacity: 1;
+}
+body#layout #sidebar-wrapper .section {
+  background-color: #f8e244 !important;
+  border: 1px solid #fff;
+}
+body#layout #sidebar-wrapper .section h4 {
+  color: #fff;
+}
+body#layout #sidebar-wrapper .section .widget-content {
+  border-color: #5a7ea2 !important;
+}
+body#layout #sidebar-wrapper .section .draggable-widget .widget-wrap2 {
+  background-color: #0080ce !important;
+}
+body#layout #main-wrapper #main {
+  margin-right: 4px;
+  background-color: #5a7ea2;
+  border-color: #34495e;
+}
+body#layout #main-wrapper #main h4 {
+  color: #fff !important;
+}
+body#layout .layout-widget-description {
+  display: none !important;
+}
+body#layout #Blog1 .widget-content {
+  border-color: #34495e;
+}
+body#layout .draggable-widget .widget-wrap2 {
+  background: #0080ce url(https://www.blogger.com/img/widgets/draggable.png)
+    no-repeat 4px 50%;
+}
+body#layout .editlink {
+  background: #0080ce;
+  color: #fff !important;
+  padding: 0 3px;
+  line-height: 18px;
+  border: 1px solid #2469d9;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none !important;
+}
+body#layout .add_widget {
+  background: #fff;
+}
+body#layout .tm-menu .section {
+  background-color: #f6b3d2 !important;
+  border: 1px solid #ed67a7;
+}
+body#layout .header {
+  background-color: #f2132d !important;
+  border: 1px solid #f53551;
+}
+body#layout .feat-slider-wrap .section {
+  background-color: #a0d3db !important;
+  border: 1px solid #a2dbeb;
+}
+body#layout .insta-wrap .section {
+  background-color: #a0d3db !important;
+  border: 1px solid #a2dbeb;
+}
+body#layout .FollowByEmail .widget-content:before,
+body#layout .jugas_footer_copyright {
+  display: none;
+}
+body#layout .sora-special-box,
+body#layout .sora-works-box,
+body#layout .sora-about-box,
+body#layout .insta-wrap,
+body#layout .Portfolio-title {
+  display: none;
+}
+/*------Layout (end)----------*/
+-- > article {
+  padding: 0 0 10px 0;
+  clear: both;
+}
+.post-header {
+  padding: 0;
+}
+@media only screen and (max-width: 768px) {
+  article {
+    padding: 10px;
+  }
+}
