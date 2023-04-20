@@ -1,0 +1,44 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
+/* eslint-disable jsx-a11y/anchor-is-valid */
+//
+import { Routes, Route } from "react-router-dom";
+
+import Header from "./components/Layouts/Header.jsx";
+import Footer from "./components/Layouts/Footer.jsx";
+
+import Home from "./components/Pages/Home.jsx";
+import Register from "./components/Pages/Register.jsx";
+import Login from "./components/Pages/Login.jsx";
+import Main from "./components/Pages/Main.jsx";
+
+import Questions from "./components/Pages/Questions.jsx";
+import Solution from "./components/Pages/Solution.jsx";
+
+import Quest from "./components/QuestionsDB";
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+
+        <Route path="/Register" element={<Register />} />
+        <Route path="/Login" element={<Login />} />
+
+        <Route path="/Questions" element={<Questions questions={Quest} />} />
+        <Route
+          path="/questions/:num/"
+          element={<Solution questions={Quest} />}
+        />
+      </Routes>
+
+      <Main />
+
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
