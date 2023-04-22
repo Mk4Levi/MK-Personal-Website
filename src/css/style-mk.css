@@ -1,0 +1,12 @@
+#gmail-btn {
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 10px;
+  background-color: rgb(203, 255, 238);
+}
+
+#gmail-btn:hover {
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: rgb(209, 255, 179);
+}
