@@ -10,3 +10,13 @@
   border-radius: 20px;
   background-color: rgb(209, 255, 179);
 }
+
+.top-bar-social #social a {
+  width: 40px;
+}
+
+#social-title {
+  color: azure;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
