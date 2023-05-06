@@ -12,7 +12,7 @@ window["__wavt"] = "AOuZoY6DGm0ksidQnT4_COv35BEpCm3izA:1681817712229";
 
 _WidgetManager._Init(
   "//draft.blogger.com/rearrange?blogID\x3d4362012377884254076",
-  "//www.thapatechnical.com/",
+  "//www.manthan-mk.com/",
   "4362012377884254076"
 );
 _WidgetManager._SetDataContext([
@@ -20,13 +20,13 @@ _WidgetManager._SetDataContext([
     name: "blog",
     data: {
       blogId: "4362012377884254076",
-      title: "ThapaTechnical",
-      url: "https://www.thapatechnical.com/",
-      canonicalUrl: "https://www.thapatechnical.com/",
-      homepageUrl: "https://www.thapatechnical.com/",
-      searchUrl: "https://www.thapatechnical.com/search",
-      canonicalHomepageUrl: "https://www.thapatechnical.com/",
-      blogspotFaviconUrl: "https://www.thapatechnical.com/favicon.ico",
+      title: "MK-Technical",
+      url: "https://www.manthan-mk.com/",
+      canonicalUrl: "https://www.manthan-mk.com/",
+      homepageUrl: "https://www.manthan-mk.com/",
+      searchUrl: "https://www.manthan-mk.com/search",
+      canonicalHomepageUrl: "https://www.manthan-mk.com/",
+      blogspotFaviconUrl: "https://www.manthan-mk.com/favicon.ico",
       bloggerUrl: "https://draft.blogger.com",
       hasCustomDomain: true,
       httpsEnabled: true,
@@ -45,7 +45,7 @@ _WidgetManager._SetDataContext([
       isPrivateBlog: false,
       isDynamicViewsAvailable: true,
       feedLinks:
-        "\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ThapaTechnical - Atom\x22 href\x3d\x22https://www.thapatechnical.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22ThapaTechnical - RSS\x22 href\x3d\x22https://www.thapatechnical.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ThapaTechnical - Atom\x22 href\x3d\x22https://draft.blogger.com/feeds/4362012377884254076/posts/default\x22 /\x3e\n",
+        "\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ThapaTechnical - Atom\x22 href\x3d\x22https://www.manthan-mk.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22ThapaTechnical - RSS\x22 href\x3d\x22https://www.manthan-mk.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ThapaTechnical - Atom\x22 href\x3d\x22https://draft.blogger.com/feeds/4362012377884254076/posts/default\x22 /\x3e\n",
       meTag:
         "\x3clink rel\x3d\x22me\x22 href\x3d\x22https://draft.blogger.com/profile/14245685767743007271\x22 /\x3e\n",
       adsenseClientId: "ca-pub-8978812339822510",
@@ -108,7 +108,7 @@ _WidgetManager._SetDataContext([
       jumpLinkMessage: "Read more",
       pageType: "index",
       pageName: "",
-      pageTitle: "ThapaTechnical",
+      pageTitle: "Manthan-MK",
     },
   },
   { name: "features", data: {} },
@@ -142,10 +142,10 @@ _WidgetManager._SetDataContext([
       snapshot: { name: "snapshot", url: "?view\x3dsnapshot" },
       timeslide: { name: "timeslide", url: "?view\x3dtimeslide" },
       isMobile: false,
-      title: "ThapaTechnical",
+      title: "Manthan-MK",
       description:
-        "Want to be a web developer and Technical geek? Welcome, to ThapaTechnical. Home of web developer and creativity. We make articles on Technology, Social cause, University Important topics and also u will get all videos source code and Notes for Free of ThapaTechnical YouTube channel.",
-      url: "https://www.thapatechnical.com/",
+        "Want to be a web developer and Technical geek? Welcome, to Manthan-MK. Home of web developer and creativity. We make articles on Technology, Social cause, University Important topics and also u will get all videos source code and Notes for Free of Manthan-MK YouTube channel.",
+      url: "https://www.manthan-mk.com/",
       type: "feed",
       isSingleItem: false,
       isMultipleItems: true,
@@ -356,30 +356,30 @@ _WidgetManager._RegisterWidget(
       links: [
         {
           isCurrentPage: true,
-          href: "https://www.thapatechnical.com/",
+          href: "https://www.manthan-mk.com/",
           title: "Home",
         },
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/aboutus.html",
+          href: "https://www.manthan-mk.com/p/aboutus.html",
           id: "2986245783985957218",
           title: "AboutUs",
         },
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/privacy-policy-effective-date-july-29.html",
+          href: "https://www.manthan-mk.com/p/privacy-policy-effective-date-july-29.html",
           id: "6856492306334275048",
           title: "Privacy Policy",
         },
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/disclaimer.html",
+          href: "https://www.manthan-mk.com/p/disclaimer.html",
           id: "2793646599868293901",
           title: "Disclaimer",
         },
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/contact-us.html",
+          href: "https://www.manthan-mk.com/p/contact-us.html",
           id: "1300498484709150056",
           title: "Contact Us",
         },
@@ -435,13 +435,13 @@ _WidgetManager._RegisterWidget(
       links: [
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/disclaimer.html",
+          href: "https://www.manthan-mk.com/p/disclaimer.html",
           id: "2793646599868293901",
           title: "Disclaimer",
         },
         {
           isCurrentPage: false,
-          href: "https://www.thapatechnical.com/p/privacy-policy-effective-date-july-29.html",
+          href: "https://www.manthan-mk.com/p/privacy-policy-effective-date-july-29.html",
           id: "6856492306334275048",
           title: "Privacy Policy",
         },

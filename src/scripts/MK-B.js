@@ -793,17 +793,6 @@
     });
 });
 
-/*!
- * Flickity PACKAGED v1.0.0
- * Touch, responsive, flickable galleries
- *
- * Licensed GPLv3 for open source use
- * or Flickity Commercial License for commercial use
- *
- * http://flickity.metafizzy.co
- * Copyright 2015 Metafizzy
- */
-
 !(function (t) {
   function e() {}
   function i(t) {
@@ -3540,12 +3529,6 @@
     );
   });
 
-/*!
-Waypoints - 3.1.1
-Copyright � 2011-2015 Caleb Troughton
-Licensed under the MIT license.
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-*/
 !(function () {
   "use strict";
   function t(o) {
@@ -3959,14 +3942,6 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
       window.Zepto && (window.Zepto.fn.waypoint = t(window.Zepto));
   })();
 
-/*!
- * jquery.counterup.js 1.0
- *
- * Copyright 2013, Benjamin Intal http://gambit.ph @bfintal
- * Released under the GPL v2 License
- *
- * Date: Nov 26, 2013
- */
 (function ($) {
   "use strict";
 

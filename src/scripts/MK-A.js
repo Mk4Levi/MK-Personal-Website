@@ -1,7 +1,4 @@
-/*<![CDATA[*/
-/*! WOW wow.js - v1.3.0 - 2016-10-04
- * https://wowjs.uk
- * Copyright (c) 2016 Thomas Grainger; Licensed MIT */ !(function (a, b) {
+(function (a, b) {
   if ("function" == typeof define && define.amd)
     define(["module", "exports"], b);
   else if ("undefined" != typeof exports) b(module, exports);
