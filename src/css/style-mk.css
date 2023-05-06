@@ -20,3 +20,11 @@
   padding-top: 25px;
   padding-bottom: 15px;
 }
+
+#send-msg-form input {
+  font-size: larger;
+}
+
+#send-msg-form textarea {
+  font-size: larger;
+}

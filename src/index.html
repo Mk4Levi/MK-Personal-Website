@@ -2037,11 +2037,11 @@
                     data-version="1"
                     id="ContactForm1"
                   >
-                    <div class="contact-form-widget">
+                    <div class="contact-form-widget" id="send-msg-form">
                       <div class="form">
                         <form name="contact-form" action="#">
                           <p></p>
-                          <span class="name-bg">Name*</span>
+                          <span class="name-bg"><b>Name*</b></span>
                           <br />
                           <input
                             class="contact-form-name"
@@ -2050,9 +2050,10 @@
                             size="30"
                             type="text"
                             value=""
+                            required
                           />
                           <p></p>
-                          <span class="email-bg">Email*</span>
+                          <span class="email-bg"><b>Email*</b></span>
                           <br />
                           <input
                             class="contact-form-email"
@@ -2061,16 +2062,18 @@
                             size="30"
                             type="email"
                             value=""
+                            required
                           />
                           <p></p>
-                          <span class="message-bg">Message*</span>
+                          <span class="message-bg"><b>Message*</b></span>
                           <br />
                           <textarea
                             class="contact-form-email-message"
                             cols="25"
                             id="ContactForm1_contact-form-email-message"
                             name="email-message"
-                            rows="5"
+                            rows="4"
+                            required
                           ></textarea>
                           <p></p>
                           <!-- <script src="https://www.google.com/recaptcha/api.js"></script>
