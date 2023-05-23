@@ -1,7 +1,6 @@
 # Manthan-MK-Personal Website
 
 ## Link to Portfolio Website :- https://manthan-mk.vercel.app/
-## Backup link to Portfolio Website :- https://manthan-mk.netlify.app/
 
 <h2>Getting Started</h2>
 
