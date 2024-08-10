@@ -1,5 +1,7 @@
 # Manthan-MK-Personal Website
 
+## => This is a Frontend Website named Manthan-MK. It's a very interactive and visually stunning website that captivates users with its seamless UI experience.
+
 ## Link to Portfolio Website :- https://manthan-mk.vercel.app/
 
 <h2>Getting Started</h2>
@@ -70,7 +72,3 @@ http://localhost:5173
 ```
 
 # Thank You
-
-
-
-
